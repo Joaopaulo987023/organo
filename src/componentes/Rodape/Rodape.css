@@ -1,0 +1,17 @@
+.rodape{
+
+    color: #fff;
+    padding: 80px;
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-between;
+    background-image: url("../../../public/imagens/fundo.png");
+    align-items: center ;
+}
+.rodape ul li{
+    display: inline-block;
+    margin-right:30px ;
+}
+.rodape ul li:last-child {
+    margin-right: 0;
+}
